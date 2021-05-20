@@ -1,6 +1,0 @@
-input("This is an addition Calculator, Please hit Enter")
-first = input("first number: ")
-second = input("second number: ")
-sum = float(first) + float(second)
-print(sum)
-input("Answer")
